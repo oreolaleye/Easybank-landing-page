@@ -543,20 +543,20 @@ h1,h2,h3,h4,h5,h6{
 .fab{
 	color: white;
 	position: absolute;
-	left: 130px;
-	top: 713%;
+	left: 170px;
+	top: 670%;
 }
 .youtube{
-	left: 160px;
+	left: 210px;
 }
 .twitter{
-	left: 190px;
+	left: 250px;
 }
 .pinterest{
-	left: 220px
+	left: 290px
 }
 .instagram{
-	left: 250px;
+	left: 330px;
 }
 .fab:hover{
 	color: #31D35C;
